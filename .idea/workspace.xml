@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8b9fa1d-c2f3-4bc8-882d-04cb1dcfffc3" name="Changes" comment="Codigo finalizado e readme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2p5Gy6iI06KR1ebDaSV6crBuoCH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SunnyMeterApplication.executor": "Run",
+    "Maven.Unknown [clean,install].executor": "Run",
+    "Maven.sunny-meter [clean,install].executor": "Run",
+    "Maven.sunny-meter [clean,package].executor": "Run",
+    "Maven.sunny-meter [clean].executor": "Run",
+    "Maven.sunny-meter [clena,package].executor": "Run",
+    "Maven.sunny-meter [dependency:tree].executor": "Run",
+    "Maven.sunny-meter [install].executor": "Run",
+    "Maven.sunny-meter [spring-boot:run,-X].executor": "Run",
+    "Maven.sunny-meter [spring-boot:run].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/guilh/Downloads/2ESPW/GS2/Java/GS 1 - Copia",
+    "onboarding.tips.debug.path": "C:/Users/guilh/Downloads/2ESPW/GS2/Java/GS/src/main/java/main/java/com/sunnymeter/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propCompiler"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean" />
+      <command value="mvn dependency:tree " />
+      <command value="mvn clena package" />
+      <command value="mvn clean package" />
+      <command value="java -jar target/sunny-meter-&lt;versão&gt;.jar" />
+      <command value="mvn spring-boot:run" />
+      <command value="mvn spring-boot:run -X" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="GS 1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="GS 1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8b9fa1d-c2f3-4bc8-882d-04cb1dcfffc3" name="Changes" comment="" />
+      <created>1732048776521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732048776521</updated>
+    </task>
+    <task id="LOCAL-00001" summary="pom.xml atualizado">
+      <option name="closed" value="true" />
+      <created>1732214461924</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732214461924</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Contrato Finalizado, funcoes get,post e delete">
+      <option name="closed" value="true" />
+      <created>1732292044403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732292044403</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Consumo Implementado e urrl ajustadas">
+      <option name="closed" value="true" />
+      <created>1732301483332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732301483332</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Contrato funcinando sem horário">
+      <option name="closed" value="true" />
+      <created>1732318171017</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732318171017</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Contrato com horario">
+      <option name="closed" value="true" />
+      <created>1732319504427</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732319504427</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Codigo finalizado e readme">
+      <option name="closed" value="true" />
+      <created>1732322697965</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732322697965</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pom.xml atualizado" />
+    <MESSAGE value="Contrato Finalizado, funcoes get,post e delete" />
+    <MESSAGE value="Consumo Implementado e urrl ajustadas" />
+    <MESSAGE value="Contrato funcinando sem horário" />
+    <MESSAGE value="Contrato com horario" />
+    <MESSAGE value="Codigo finalizado e readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codigo finalizado e readme" />
+  </component>
+</project>
